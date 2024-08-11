@@ -1,8 +1,7 @@
 import cv2
 import mediapipe as mp
 import pyfirmata
-## Facbook - https://www.facebook.com/salar.brefki/
-## Instagram - https://www.instagram.com/salarbrefki/
+
 comport='COM5'  
 
 b=pyfirmata.Arduino(comport)
