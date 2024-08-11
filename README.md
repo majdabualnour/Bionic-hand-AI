@@ -25,7 +25,7 @@ To run this project, you'll need the following:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/majdabualnour/bionic-hand-AI.git
+    git clone https://github.com/majdabualnour/Bionic-hand-AI.git
     ```
 
 2. **Install the required Python packages**:
