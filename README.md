@@ -4,6 +4,8 @@
 This project demonstrates a hand-tracking system that uses a webcam to detect hand gestures and control servos connected to an Arduino board. The project leverages Python, OpenCV, Mediapipe, and PyFirmata to create an interactive system that maps hand gestures to servo positions.
 
 ![Hand Tracking Example](image.jpg)
+![Hand Tracking Example](image1.jpg)
+![Hand Tracking Example](image2.jpg)
 
 ## Overview
 
