@@ -69,6 +69,8 @@ To run this project, you'll need the following:
 Here's how the hand tracking system looks in action:
 
 ![Hand Tracking Example](image.jpg)
+![Hand Tracking Example](image1.jpg)
+![Hand Tracking Example](image2.jpg)
 
 
 ## License
